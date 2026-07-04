@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ishan Padhy
 - 👀 I’m interested in Data Science, Machine Learning and related concepts
-- 🌱 I’m currently pursuing my Masters in Data Analytics
+- 🌱 I’ve graduated with my Masters in Data Analytics Engineering
+- I'm currently a Data Engineer at NetApp
 - 💞️ I’m looking to collaborate on projects in this field.
 - 📫 How to reach me: ishanpadhy21@gmail.com
 
